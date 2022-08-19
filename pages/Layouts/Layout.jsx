@@ -64,8 +64,8 @@ const Layout = ({children}) => {
                     <h6 className="p-0 m-0 text-center">Fernando Olguin - Desarrollador Web ©2022</h6>
                   </div>
                   <div className="col-sm-6 d-flex justify-content-sm-end justify-content-center align-items-center">
-                     <a href="https://github.com/ferOlguiin" className="text-decoration-none text-white" target="_blank"><BsGithub className="fs-4 m-1"/></a>
-                     <a href="https://www.linkedin.com/in/fernando-olguin-5a63a9236/" className="text-decoration-none text-info" target="_blank"><BsLinkedin className="fs-4 m-1"/></a>
+                     <a href="https://github.com/ferOlguiin" rel="noreferrer" className="text-decoration-none text-white" target="_blank"><BsGithub className="fs-4 m-1"/></a>
+                     <a href="https://www.linkedin.com/in/fernando-olguin-5a63a9236/" rel="noreferrer" className="text-decoration-none text-info" target="_blank"><BsLinkedin className="fs-4 m-1"/></a>
                      <BsEnvelopeOpenFill onClick={handleCopyLayout} className="fs-4 m-1 text-danger envelope" />
                   </div>
                 </div>
