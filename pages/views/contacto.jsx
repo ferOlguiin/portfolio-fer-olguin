@@ -44,7 +44,7 @@ const Contacto = () => {
             />
           </div>
           <h2 className="fw-bold mt-2 mb-3 text-center">Hoja de vida</h2>
-          <a className="text-decoration-none btn btn-md btn-dark shadow border border-1 border-secondary mt-3" rel="noreferrer" target="_blank" href="https://drive.google.com/file/d/1XXiRB6N2DEC5VSsyNY6AaSFPX22gKE_M/view?usp=sharing">Visualizar CV en drive<FaFilePdf className="text-danger ms-2 mb-1"/></a>
+          <a className="text-decoration-none btn btn-md btn-dark shadow border border-1 border-secondary mt-3" rel="noreferrer" target="_blank" href="https://drive.google.com/file/d/1-svRlYrSEW6wVfcIuST7b-ZVVdsqfhSW/view?usp=sharing">Visualizar CV en drive<FaFilePdf className="text-danger ms-2 mb-1"/></a>
         </div>
     </Layout>
   )
